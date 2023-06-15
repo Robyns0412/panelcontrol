@@ -1,0 +1,43 @@
+.dashboard {
+    background-color: #F0F5FF;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .metric {
+    background-color: #D1E6FF;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  
+  .metric h3 {
+    color: #1773D1;
+    margin-bottom: 5px;
+  }
+  
+  .metric p {
+    color: #333333;
+  }
+  
+  .button {
+    background-color: #1773D1;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #135DA0;
+  }
+  
+  .chart {
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+  }
+  
+  
